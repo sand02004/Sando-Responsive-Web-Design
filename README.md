@@ -1,0 +1,1 @@
+I was creating a responsive web design for my personal resume website. It includes sections such as my experience, education, and projects I have worked on, all displayed in a user-friendly and visually appealing format.
